@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkfresh_mart_portal=globalThis.webpackChunkfresh_mart_portal||[]).push([[992],{2280(a){a.exports=JSON.parse('{"metadata":{"permalink":"/Support-Fresh-Mart/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
