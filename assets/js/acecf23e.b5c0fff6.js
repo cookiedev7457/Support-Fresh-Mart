@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkfresh_mart_portal=globalThis.webpackChunkfresh_mart_portal||[]).push([[903],{1912(r){r.exports=JSON.parse('{"blogBasePath":"/Support.Fresh-Mart/blog","blogTitle":"Blog","authorsListPath":"/Support.Fresh-Mart/blog/authors"}')}}]);
