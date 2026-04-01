@@ -34,4 +34,4 @@ Contributions to improve the accuracy and clarity of the documentation are welco
 ## Community Links
 
 * **Roblox Group:** [Fresh-Mart](https://www.roblox.com/communities/34992659/Fresh-Mart#!/about)
-* **Support Portal:** [Live Website](https://cookiedev7457.github.io/Support-Fresh-Mart/)
+* **Support Portal:** [Live Website](https://cookiedev7457.github.io/support-fresh-mart/)
